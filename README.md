@@ -1,3 +1,3 @@
 # Study
-good  good study   day  day  up
-学习资料
+## good  good study   day  day  up
+1. 学习资料
